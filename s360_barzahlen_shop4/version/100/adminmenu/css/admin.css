@@ -1,0 +1,29 @@
+.actions i {
+    padding: 0 5px 0;
+}
+
+.modal .spaced {
+    width: 120px;
+}
+
+.modal-body {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+thead td {
+    font-weight: bold;
+}
+
+#page-link-current {
+    padding:0;
+}
+
+#page-select {
+    border:0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 0.5px;
+    height: 35px;
+    width: 35px;
+    text-align: center;    
+}

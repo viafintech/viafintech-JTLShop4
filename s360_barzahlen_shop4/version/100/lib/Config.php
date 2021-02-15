@@ -23,7 +23,9 @@ class Config {
         'AT' => 1000.00,
         'IT' => 1000.00,
         'GR' => 500.00,
-        'CH' => 1500.01
+        'CH' => 1500.01,
+        'ES' => 1000.00,
+        'FR' => 1000.00
     ];
     
     const COUNTRY_CURRENCY = [
@@ -31,7 +33,9 @@ class Config {
         'AT' => 'EUR',
         'IT' => 'EUR',
         'GR' => 'EUR',
-        'CH' => 'CHF'
+        'CH' => 'CHF',
+        'ES' => 'EUR',
+        'FR' => 'EUR'
     ];
     const SUPPORTED_LOCALES = [
         'de-DE', 'de-CH', 'el-GR', 'en-CH', 'es-ES', 'fr-FR', 'it-IT'

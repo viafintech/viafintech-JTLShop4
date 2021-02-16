@@ -60,12 +60,27 @@
                 <MethodLanguage iso="GER">
                     <Name><![CDATA[Barzahlen]]></Name>
                     <ChargeName><![CDATA[Geb&uuml;hr]]></ChargeName>
-                    <InfoText><![CDATA[Mit Abschluss der Bestellung bekommen Sie einen Zahlschein angezeigt, den Sie sich ausdrucken oder auf Ihr Handy schicken lassen k&ouml;nnen. Bezahlen Sie den Online-Einkauf mit Hilfe des Zahlscheins an der Kasse einer Barzahlen/viacash-Partnerfiliale. barzahlen.de/filialfinder]]></InfoText>
+                    <InfoText><![CDATA[Mit Abschluss der Bestellung bekommen Sie einen Zahlschein angezeigt, den Sie sich ausdrucken oder auf Ihr Handy schicken lassen k&ouml;nnen. Bezahlen Sie den Online-Einkauf mit Hilfe des Zahlscheins an der Kasse einer Barzahlen/viacash-Partnerfiliale (barzahlen.de/filialfinder) in bar oder mit Ihrer bevorzugten Zahlungsmethode.]]></InfoText>
                 </MethodLanguage>
                 <MethodLanguage iso="ENG">
                     <Name><![CDATA[Barzahlen]]></Name>
-                    <ChargeName><![CDATA[Geb&uuml;hr]]></ChargeName>
-                    <InfoText><![CDATA[Mit Abschluss der Bestellung bekommen Sie einen Zahlschein angezeigt, den Sie sich ausdrucken oder auf Ihr Handy schicken lassen k&ouml;nnen. Bezahlen Sie den Online-Einkauf mit Hilfe des Zahlscheins an der Kasse einer Barzahlen/viacash-Partnerfiliale. barzahlen.de/filialfinder]]></InfoText>
+                    <ChargeName><![CDATA[Fee]]></ChargeName>
+                    <InfoText><![CDATA[After you complete your order, you will be shown a payment slip that you can print out or have sent to your mobile phone. Go to the nearest Barzahlen/viacash partner branch (barzahlen.de/filialfinder / viacash.com/storefinder) and pay at the checkout in cash or your preferred payment method.]]></InfoText>
+                </MethodLanguage>
+                <MethodLanguage iso="FRE">
+                    <Name><![CDATA[Barzahlen]]></Name>
+                    <ChargeName><![CDATA[Barzahlen]]></ChargeName>
+                    <InfoText><![CDATA[Une fois votre commande termin&eacute;e, vous recevrez un code barre et/ou un bordereau de paiement que vous pourrez imprimer ou faire envoyer sur votre t&eacute;l&eacute;phone portable. Rendez-vous dans le point de vente partenaire viacash le plus proche (viacash.com/storefinder) et payez &agrave; la caisse en esp&egrave;ces ou avec le moyen de paiement de votre choix.]]></InfoText>
+                </MethodLanguage>
+                <MethodLanguage iso="ITA">
+                    <Name><![CDATA[Barzahlen]]></Name>
+                    <ChargeName><![CDATA[Barzahlen]]></ChargeName>
+                    <InfoText><![CDATA[Dopo aver completato l'ordine, ti verr&agrave; mostrata una ricevuta di pagamento che potrai stampare o ricevere sul tuo cellulare. Vai al negozio partner viacash pi&ugrave; vicino (viacash.com/storefinder) e paga alla cassa in contanti o con il tuo metodo di pagamento preferito.]]></InfoText>
+                </MethodLanguage>
+                <MethodLanguage iso="SPA">
+                    <Name><![CDATA[Barzahlen]]></Name>
+                    <ChargeName><![CDATA[Barzahlen]]></ChargeName>
+                    <InfoText><![CDATA[Una vez completada la orden, usted recibir&aacute; un recibo de pago el cual podr&aacute; ser impreso o enviado a su tel&eacute;fono m&oacute;vil. Dir&iacute;jase a la tienda o supermercado asociado a viacash m&aacute;s cercano (viacash.com/storefinder) y realice el pago en la caja en efectivo o con el m&eacute;todo de pago de su preferencia.]]></InfoText>
                 </MethodLanguage>
                 <Setting type="selectbox" initialValue="1" sort="1" conf="Y">
                     <Name><![CDATA[Rechnungsadresse senden]]></Name>

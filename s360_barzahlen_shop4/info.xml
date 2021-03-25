@@ -11,6 +11,10 @@
             <CreateDate><![CDATA[2020-12-22]]></CreateDate>
             <SQL>install.sql</SQL>
         </Version>
+        <Version nr="101">
+            <CreateDate><![CDATA[2020-03-25]]></CreateDate>
+            <SQL>update.sql</SQL>
+        </Version>
         <Hooks>
             <Hook id="140">140_checkout.php</Hook>
         </Hooks>

@@ -1,0 +1,1 @@
+ALTER TABLE `xplugin_s360_barzahlen_shop4_slip` CHANGE `cBestellNr` `cBestellNr` VARCHAR(20) NOT NULL;

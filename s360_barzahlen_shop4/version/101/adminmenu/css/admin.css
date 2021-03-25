@@ -1,0 +1,29 @@
+.actions i {
+    padding: 0 5px 0;
+}
+
+.modal .spaced {
+    width: 120px;
+}
+
+.modal-body {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+thead td {
+    font-weight: bold;
+}
+
+#page-link-current {
+    padding:0;
+}
+
+#page-select {
+    border:0;
+    height: 35px;
+    text-align: center;    
+}
+
+tbody#s360-slip-list {
+    font-size: smaller;
+}
